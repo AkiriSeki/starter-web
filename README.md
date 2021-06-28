@@ -12,3 +12,7 @@ Sample website with plenty of files for demos
 test 2
 
 ## How to Contribute
+
+## Copyright
+
+git. Training
