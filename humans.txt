@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-    John Taylor json2git.training 
+    JasonPower Taylor json2git.training checking
     <name> -- <role> -- <twitter>
 
 # THANKS
